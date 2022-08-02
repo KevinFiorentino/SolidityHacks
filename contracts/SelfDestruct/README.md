@@ -1,3 +1,9 @@
+# Forzar envío de Ethers
+
+Contribución creada como parte del [Curso de Introducción a Seguridad de Smart Contracts](https://platzi.com/clases/2721-seguridad-smart-contracts/45715-forzar-envio-de-ethers/) de **Platzi**. 
+
+---
+
 Las transferencias y **el envío de ETH también pueden ser perjudiciales para un contrato**. Muchos ataques a contratos inteligentes no solo buscan robar fondos, también pueden buscar causar daño y que se pierdan millones en un proyecto.
 
 ## Recepción de ETH

@@ -1,3 +1,9 @@
+# Reentrancy cruzado
+
+Contribución creada como parte del [Curso de Introducción a Seguridad de Smart Contracts](https://platzi.com/clases/2721-seguridad-smart-contracts/45717-reentrancy-cruzado/) de **Platzi**. 
+
+--
+
 La vulnerabilidad de los contratos inteligentes conocida como **Reetrancy** no solo permite llamar a una misma función una y otra vez. Existe una variante similar, pero que **provoca el llamado a una segunda función**. Se lo conoce con el nombre de **Reetrancy Cruzado**.
 
 ## Reentrada cruzada de transacciones

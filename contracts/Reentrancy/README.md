@@ -1,3 +1,9 @@
+# Reentrancy simple
+
+Contribución creada como parte del [Curso de Introducción a Seguridad de Smart Contracts](https://platzi.com/clases/2721-seguridad-smart-contracts/45716-reentrancy-simple/) de **Platzi**. 
+
+--
+
 **El depósito y retiro de ETH en un contrato** por parte de un usuario **puede exponer vulnerabilidades** si los mismos no se realizan de la forma correcta.
 
 ## Reentrada de transacciones
