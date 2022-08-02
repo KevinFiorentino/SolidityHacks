@@ -2,7 +2,7 @@
 
 Contribución creada como parte del [Curso de Introducción a Seguridad de Smart Contracts](https://platzi.com/clases/2721-seguridad-smart-contracts/45718-denegacion-por-reversion/) de **Platzi**. 
 
---
+---
 
 Es conocido en el mundo de la informática los [Ataque de Denegación de Servicios o DoS](https://platzi.com/clases/2684-intro-pentesting/46093-ataques-de-denegacion-de-servicio/). Los mismos **interrumpen de forma total o parcial un servicio** como un servidor web, un servidor de base de datos o algún tipo de red donde se intercambia información.
 
